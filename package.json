@@ -1,8 +1,8 @@
 {
-  "name": "xcode-26-theme",
+  "name": "xcode-26-theme-vscode",
   "displayName": "Xcode 26 Theme",
   "description": "Modern Xcode 26-inspired theme pack for VS Code and Cursor.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "SushantKumar",
   "icon": "icon.png",
   "repository": {
