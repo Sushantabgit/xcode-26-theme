@@ -158,12 +158,12 @@
 		"property.declaration:swift": "#5BB4CD",
 		"parameter:swift": "#5BB4CD",
 		"enumMember:swift": "#5BB4CD",
-		"function:swift": "#A9B6C2",
-		"method:swift": "#A9B6C2",
+		"function:swift": "#5BB4CD",
+		"method:swift": "#5BB4CD",
 		"function.declaration:swift": "#5BB4CD",
 		"method.declaration:swift": "#5BB4CD",
-		"function.defaultLibrary:swift": "#A9B6C2",
-		"method.defaultLibrary:swift": "#A9B6C2",
+		"function.defaultLibrary:swift": "#5BB4CD",
+		"method.defaultLibrary:swift": "#5BB4CD",
 		"property.defaultLibrary:swift": "#A9B6C2",
 		"operator.defaultLibrary:swift": "#E5E5E5",
 		"modifier:swift": "#FF8CB7",
@@ -754,7 +754,21 @@
 				"source.swift support.function.any-method"
 			],
 			"settings": {
-				"foreground": "#A9B6C2"
+				"foreground": "#5BB4CD"
+			}
+		},
+		{
+			"name": "Swift visual parity — standard library functions",
+			"scope": [
+				"source.swift meta.function-call.swift support.function",
+				"source.swift support.function",
+				"source.swift support.function.any-method",
+				"source.swift support.function.any-method.swift",
+				"source.swift support.function.builtin.swift",
+				"source.swift support.function.default-library.swift"
+			],
+			"settings": {
+				"foreground": "#DFC2FC"
 			}
 		},
 		{

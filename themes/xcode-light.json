@@ -158,12 +158,12 @@
 		"property.declaration:swift": "#2383B2",
 		"parameter:swift": "#2383B2",
 		"enumMember:swift": "#2383B2",
-		"function:swift": "#1A6A91",
-		"method:swift": "#1A6A91",
+		"function:swift": "#5B33B2",
+		"method:swift": "#5B33B2",
 		"function.declaration:swift": "#2383B2",
 		"method.declaration:swift": "#2383B2",
-		"function.defaultLibrary:swift": "#1A6A91",
-		"method.defaultLibrary:swift": "#1A6A91",
+		"function.defaultLibrary:swift": "#5B33B2",
+		"method.defaultLibrary:swift": "#5B33B2",
 		"property.defaultLibrary:swift": "#2383B2",
 		"operator.defaultLibrary:swift": "#323232",
 		"modifier:swift": "#B551A7",
@@ -754,7 +754,7 @@
 				"source.swift support.function.any-method"
 			],
 			"settings": {
-				"foreground": "#1A6A91"
+				"foreground": "#5B33B2"
 			}
 		},
 		{
