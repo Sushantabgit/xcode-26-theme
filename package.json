@@ -4,6 +4,7 @@
   "description": "Xcode-26-inspired theme pack for VS Code and Cursor.",
   "version": "1.0.0",
   "publisher": "SushantKumar",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Sushantabgit/XCode-26-Theme"
