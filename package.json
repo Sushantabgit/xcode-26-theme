@@ -1,13 +1,13 @@
 {
   "name": "xcode-26-theme",
-  "displayName": "XCode 26 Theme",
-  "description": "Xcode-26-inspired theme pack for VS Code and Cursor.",
+  "displayName": "Xcode 26 Theme",
+  "description": "Modern Xcode 26-inspired theme pack for VS Code and Cursor.",
   "version": "1.0.0",
   "publisher": "SushantKumar",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sushantabgit/XCode-26-Theme"
+    "url": "https://github.com/Sushantabgit/XCode-26-Theme.git"
   },
   "license": "Apache-2.0",
   "engines": {
@@ -18,25 +18,26 @@
   ],
   "keywords": [
     "xcode",
-    "26",
-    "xcode-theme",
-    "xcode-dark",
-    "xcode-light",
-    "vscode-theme",
+    "apple",
     "swift",
-    "objective-c",
     "swiftui",
-    "uikit"
+    "objective-c",
+    "ios",
+    "macos",
+    "uikit",
+    "theme",
+    "vscode-theme",
+    "cursor"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "XCode Dark",
+        "label": "Xcode 26 Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/xcode-dark.json"
       },
       {
-        "label": "XCode Light",
+        "label": "Xcode 26 Light",
         "uiTheme": "vs",
         "path": "./themes/xcode-light.json"
       }

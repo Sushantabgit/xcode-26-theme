@@ -1,51 +1,100 @@
-# XCode 26 Theme
+# Xcode 26 Theme
 
-Xcode-inspired theme pack for VS Code and Cursor.
+Modern Xcode 26-inspired theme pack for VS Code and Cursor.
 
-This extension provides two themes:
+This extension includes:
 
-- XCode Dark
-- XCode Light
+- Xcode 26 Dark
+- Xcode 26 Light
 
-Both themes include Xcode-style syntax colors with Swift-focused token mappings.
+Designed to closely match the modern Xcode editor experience with Swift-focused syntax highlighting, semantic token tuning, and accurate Apple-style UI colors.
 
-## Maintainer
-
-Sushant Kumar
+---
 
 ## Features
 
-- Xcode-like editor syntax palette for common languages
-- Swift semantic and TextMate scope tuning
-- Matching UI palettes for dark and light modes
+- Native Xcode-inspired color palette
+- Swift semantic + TextMate token customization
+- Carefully tuned dark and light variants
+- Optimized for Swift, SwiftUI, Objective-C, and Apple development
+- Works in both VS Code and Cursor
+
+---
+
+## Recommended Font
+
+For the closest Xcode appearance:
+
+- SF Mono
+- Menlo
+- Monaco
+
+Example VS Code setting:
+
+```json
+"editor.fontFamily": "SF Mono, Menlo, Monaco, monospace"
+```
+
+---
+
+## Preview
+
+### Dark
+
+![Dark Theme](images/dark-theme-preview.png)
+
+### Light
+
+![Light Theme](images/light-theme-preview.png)
+
+---
 
 ## Installation
 
 ### From Marketplace
 
-1. Open Extensions in VS Code or Cursor.
-2. Search for XCode 26 Theme.
-3. Install and reload.
+1. Open Extensions in VS Code or Cursor
+2. Search for `Xcode 26 Theme`
+3. Install the extension
+4. Reload the editor
 
-### From Source (VSIX)
+### From VSIX
 
-1. Install packaging tool:
+Install VSCE:
 
-   ```bash
-   npm install -g @vscode/vsce
-   ```
+```bash
+npm install -g @vscode/vsce
+```
 
-2. Package this extension:
+Package the extension:
 
-   ```bash
-   vsce package
-   ```
+```bash
+vsce package
+```
 
-3. Install the generated .vsix file:
-   - Command Palette -> Extensions: Install from VSIX...
+Install the generated `.vsix` file:
+
+- Open Command Palette
+- Run: `Extensions: Install from VSIX...`
+
+---
 
 ## Usage
 
-1. Open Command Palette.
-2. Run Preferences: Color Theme.
-3. Select XCode Dark or XCode Light.
+1. Open Command Palette
+2. Run: `Preferences: Color Theme`
+3. Select:
+   - `Xcode 26 Dark`
+   - `Xcode 26 Light`
+
+---
+
+## Maintainer
+
+Sushant Kumar
+
+---
+
+## License
+
+Apache-2.0
