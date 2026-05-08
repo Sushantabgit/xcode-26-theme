@@ -1,0 +1,21 @@
+{
+  "name": "xcode-26-theme",
+  "displayName": "XCode-26-Theme",
+  "description": "Xcode-26-inspired theme pack for VS Code and Cursor.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "XCode-26-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/XCode-26-Theme-color-theme.json"
+      }
+    ]
+  }
+}
