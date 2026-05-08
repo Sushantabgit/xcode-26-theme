@@ -114,64 +114,64 @@
 		"widget.shadow": "#00000022"
 	},
 	"semanticTokenColors": {
-		"namespace": "#5B33B2",
-		"type": "#5B33B2",
-		"class": "#5B33B2",
-		"enum": "#5B33B2",
-		"interface": "#5B33B2",
-		"struct": "#5B33B2",
-		"typeParameter": "#5B33B2",
-		"enumMember": "#2383B2",
-		"property": "#2383B2",
-		"variable": "#2383B2",
-		"parameter": "#2383B2",
-		"function": "#1A6A91",
-		"method": "#1A6A91",
-		"number": "#433AD6",
-		"string": "#D4472C",
-		"keyword": "#B551A7",
-		"macro": "#D4472C",
+		"namespace": "#296188",
+		"type": "#296188",
+		"class": "#296188",
+		"enum": "#296188",
+		"interface": "#296188",
+		"struct": "#296188",
+		"typeParameter": "#296188",
+		"enumMember": "#4F7E86",
+		"property": "#4F7E86",
+		"variable": "#4F7E86",
+		"parameter": "#4F7E86",
+		"function": "#367AAB",
+		"method": "#367AAB",
+		"number": "#2729CF",
+		"string": "#C13E2A",
+		"keyword": "#A0459F",
+		"macro": "#C13E2A",
 		"operator": "#323232",
-		"*.readonly": "#2383B2",
-		"*.defaultLibrary": "#2383B2",
-		"namespace:swift": "#5B33B2",
-		"type:swift": "#5B33B2",
-		"typeParameter:swift": "#5B33B2",
-		"class:swift": "#5B33B2",
-		"struct:swift": "#5B33B2",
-		"enum:swift": "#5B33B2",
-		"interface:swift": "#5B33B2",
-		"class.declaration:swift": "#2383B2",
-		"class.definition:swift": "#2383B2",
-		"struct.declaration:swift": "#2383B2",
-		"struct.definition:swift": "#2383B2",
-		"enum.declaration:swift": "#2383B2",
-		"enum.definition:swift": "#2383B2",
-		"interface.declaration:swift": "#2383B2",
-		"interface.definition:swift": "#2383B2",
-		"typeParameter.declaration:swift": "#2383B2",
-		"typeParameter.definition:swift": "#2383B2",
-		"variable:swift": "#2383B2",
-		"variable.declaration:swift": "#2383B2",
-		"variable.readonly:swift": "#2383B2",
-		"property:swift": "#2383B2",
-		"property.declaration:swift": "#2383B2",
-		"parameter:swift": "#2383B2",
-		"enumMember:swift": "#2383B2",
-		"function:swift": "#5B33B2",
-		"method:swift": "#5B33B2",
-		"function.declaration:swift": "#2383B2",
-		"method.declaration:swift": "#2383B2",
-		"function.defaultLibrary:swift": "#5B33B2",
-		"method.defaultLibrary:swift": "#5B33B2",
-		"property.defaultLibrary:swift": "#2383B2",
+		"*.readonly": "#4F7E86",
+		"*.defaultLibrary": "#367AAB",
+		"namespace:swift": "#296188",
+		"type:swift": "#296188",
+		"typeParameter:swift": "#296188",
+		"class:swift": "#296188",
+		"struct:swift": "#296188",
+		"enum:swift": "#296188",
+		"interface:swift": "#296188",
+		"class.declaration:swift": "#367AAB",
+		"class.definition:swift": "#367AAB",
+		"struct.declaration:swift": "#367AAB",
+		"struct.definition:swift": "#367AAB",
+		"enum.declaration:swift": "#367AAB",
+		"enum.definition:swift": "#367AAB",
+		"interface.declaration:swift": "#367AAB",
+		"interface.definition:swift": "#367AAB",
+		"typeParameter.declaration:swift": "#367AAB",
+		"typeParameter.definition:swift": "#367AAB",
+		"variable:swift": "#4F7E86",
+		"variable.declaration:swift": "#367AAB",
+		"variable.readonly:swift": "#4F7E86",
+		"property:swift": "#4F7E86",
+		"property.declaration:swift": "#367AAB",
+		"parameter:swift": "#4F7E86",
+		"enumMember:swift": "#4F7E86",
+		"function:swift": "#31565B",
+		"method:swift": "#31565B",
+		"function.declaration:swift": "#367AAB",
+		"method.declaration:swift": "#367AAB",
+		"function.defaultLibrary:swift": "#31565B",
+		"method.defaultLibrary:swift": "#31565B",
+		"property.defaultLibrary:swift": "#367AAB",
 		"operator.defaultLibrary:swift": "#323232",
-		"modifier:swift": "#B551A7",
-		"keyword:swift": "#B551A7",
-		"number:swift": "#433AD6",
-		"string:swift": "#D4472C",
-		"macro:swift": "#D4472C",
-		"macro.defaultLibrary:swift": "#D4472C"
+		"modifier:swift": "#A0459F",
+		"keyword:swift": "#A0459F",
+		"number:swift": "#2729CF",
+		"string:swift": "#C13E2A",
+		"macro:swift": "#C13E2A",
+		"macro.defaultLibrary:swift": "#C13E2A"
 	},
 	"tokenColors": [
 		{
@@ -183,7 +183,7 @@
 				"comment.block"
 			],
 			"settings": {
-				"foreground": "#65707A"
+				"foreground": "#5E6872"
 			}
 		},
 		{
@@ -193,7 +193,7 @@
 				"comment.line.documentation"
 			],
 			"settings": {
-				"foreground": "#65707A"
+				"foreground": "#5E6872"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#B551A7"
+				"foreground": "#A0459F"
 			}
 		},
 		{
@@ -239,7 +239,7 @@
 				"meta.preprocessor.conditional.swift"
 			],
 			"settings": {
-				"foreground": "#D4472C"
+				"foreground": "#C13E2A"
 			}
 		},
 		{
@@ -250,7 +250,7 @@
 				"string.template"
 			],
 			"settings": {
-				"foreground": "#D4472C"
+				"foreground": "#C13E2A"
 			}
 		},
 		{
@@ -284,7 +284,7 @@
 				"support.constant"
 			],
 			"settings": {
-				"foreground": "#433AD6"
+				"foreground": "#2729CF"
 			}
 		},
 		{
@@ -300,7 +300,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#5B33B2"
+				"foreground": "#296188"
 			}
 		},
 		{
@@ -311,7 +311,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#1A6A91"
+				"foreground": "#4F7E86"
 			}
 		},
 		{
@@ -320,7 +320,7 @@
 				"support.function.any-method.swift"
 			],
 			"settings": {
-				"foreground": "#1A6A91"
+				"foreground": "#4F7E86"
 			}
 		},
 		{
@@ -329,7 +329,7 @@
 				"support.function.availability-condition.swift"
 			],
 			"settings": {
-				"foreground": "#B551A7"
+				"foreground": "#A0459F"
 			}
 		},
 		{
@@ -339,7 +339,7 @@
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#1A6A91"
+				"foreground": "#31565B"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"variable.other"
 			],
 			"settings": {
-				"foreground": "#2383B2"
+				"foreground": "#4F7E86"
 			}
 		},
 		{
@@ -359,7 +359,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#B551A7"
+				"foreground": "#A0459F"
 			}
 		},
 		{
@@ -371,7 +371,7 @@
 				"punctuation.definition.annotation"
 			],
 			"settings": {
-				"foreground": "#B551A7"
+				"foreground": "#7951B2"
 			}
 		},
 		{
@@ -402,7 +402,7 @@
 				"text.xml entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C41A16"
+				"foreground": "#C13E2A"
 			}
 		},
 		{
@@ -431,7 +431,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#C41A16"
+				"foreground": "#C13E2A"
 			}
 		},
 		{
@@ -495,7 +495,7 @@
 				"meta.attribute.swift"
 			],
 			"settings": {
-				"foreground": "#B551A7"
+				"foreground": "#A0459F"
 			}
 		},
 		{
@@ -509,7 +509,7 @@
 				"meta.inheritance-clause.swift"
 			],
 			"settings": {
-				"foreground": "#5B33B2"
+				"foreground": "#296188"
 			}
 		},
 		{
@@ -518,7 +518,7 @@
 				"meta.definition.type.protocol.swift"
 			],
 			"settings": {
-				"foreground": "#2383B2"
+				"foreground": "#4623A9"
 			}
 		},
 		{
@@ -529,7 +529,7 @@
 				"string.quoted.double.single-line.swift"
 			],
 			"settings": {
-				"foreground": "#D4472C"
+				"foreground": "#C13E2A"
 			}
 		},
 		{
@@ -541,7 +541,7 @@
 				"meta.definition.type.class.swift"
 			],
 			"settings": {
-				"foreground": "#2383B2"
+				"foreground": "#4F7E86"
 			}
 		},
 		{
@@ -551,7 +551,7 @@
 				"support.variable.parameter.swift"
 			],
 			"settings": {
-				"foreground": "#2383B2"
+				"foreground": "#4F7E86"
 			}
 		},
 		{
@@ -560,7 +560,7 @@
 				"entity.name.type.swift"
 			],
 			"settings": {
-				"foreground": "#5B33B2"
+				"foreground": "#296188"
 			}
 		},
 		{
@@ -702,7 +702,7 @@
 				"source.swift variable.other.dollar"
 			],
 			"settings": {
-				"foreground": "#2383B2"
+				"foreground": "#4F7E86"
 			}
 		},
 		{
@@ -720,7 +720,7 @@
 				"source.swift entity.name.section"
 			],
 			"settings": {
-				"foreground": "#2383B2"
+				"foreground": "#367AAB"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 				"source.swift meta.protocol-conformance.swift"
 			],
 			"settings": {
-				"foreground": "#5B33B2"
+				"foreground": "#296188"
 			}
 		},
 		{
@@ -754,7 +754,7 @@
 				"source.swift support.function.any-method"
 			],
 			"settings": {
-				"foreground": "#5B33B2"
+				"foreground": "#296188"
 			}
 		},
 		{
@@ -786,7 +786,7 @@
 				"source.swift meta.definition.extension.swift keyword"
 			],
 			"settings": {
-				"foreground": "#B551A7"
+				"foreground": "#A0459F"
 			}
 		}
 	]

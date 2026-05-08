@@ -15,7 +15,7 @@
 		"dropdown.background": "#2C2C2E",
 		"dropdown.border": "#48484A",
 		"dropdown.foreground": "#EBEBF5",
-		"editor.background": "#313138",
+		"editor.background": "#292A2F",
 		"editor.foreground": "#E5E5E5",
 		"editor.lineHighlightBackground": "#373A4155",
 		"editor.selectionBackground": "#87adff45",
@@ -26,11 +26,11 @@
 		"editorIndentGuide.activeBackground": "#636366",
 		"editorLineNumber.foreground": "#757C86",
 		"editorLineNumber.activeForeground": "#A9B6C2",
-		"editorGutter.background": "#313138",
+		"editorGutter.background": "#292A2F",
 		"editorGutter.modifiedBackground": "#0A84FF",
 		"editorGutter.addedBackground": "#30D158",
 		"editorGutter.deletedBackground": "#FF453A",
-		"minimap.background": "#313138",
+		"minimap.background": "#292A2F",
 		"editorBracketMatch.background": "#373A41",
 		"editorBracketMatch.border": "#5BB4CD",
 		"editorError.foreground": "#FF453A",
@@ -58,13 +58,13 @@
 		"notificationToast.border": "#48484A",
 		"notifications.background": "#2C2C2E",
 		"notifications.border": "#48484A",
-		"panel.background": "#313138",
+		"panel.background": "#292A2F",
 		"panel.border": "#48484A",
 		"panelTitle.activeBorder": "#0A84FF",
 		"panelTitle.activeForeground": "#EBEBF5",
 		"panelTitle.inactiveForeground": "#8E8E93",
 		"peekView.border": "#48484A",
-		"peekViewEditor.background": "#313138",
+		"peekViewEditor.background": "#292A2F",
 		"peekViewResult.background": "#2C2C2E",
 		"peekViewTitle.background": "#2C2C2E",
 		"progressBar.background": "#0A84FF",
@@ -82,16 +82,16 @@
 		"statusBar.noFolderBackground": "#2C2C2E",
 		"statusBar.debuggingBackground": "#EF8876",
 		"statusBarItem.prominentBackground": "#3A3A3C",
-		"tab.activeBackground": "#313138",
+		"tab.activeBackground": "#292A2F",
 		"tab.activeForeground": "#EBEBF5",
 		"tab.inactiveBackground": "#2C2C2E",
 		"tab.inactiveForeground": "#8E8E93",
 		"tab.border": "#3A3A3C",
 		"tab.activeBorderTop": "#0A84FF",
 		"tab.unfocusedActiveBorderTop": "#636366",
-		"terminal.background": "#313138",
+		"terminal.background": "#292A2F",
 		"terminal.foreground": "#E5E5E5",
-		"terminal.ansiBlack": "#313138",
+		"terminal.ansiBlack": "#292A2F",
 		"terminal.ansiRed": "#FF453A",
 		"terminal.ansiGreen": "#30D158",
 		"terminal.ansiYellow": "#FFD60A",
@@ -114,64 +114,64 @@
 		"widget.shadow": "#00000066"
 	},
 	"semanticTokenColors": {
-		"namespace": "#DFC2FC",
-		"type": "#DFC2FC",
-		"class": "#DFC2FC",
-		"enum": "#DFC2FC",
-		"interface": "#DFC2FC",
-		"struct": "#DFC2FC",
-		"typeParameter": "#DFC2FC",
-		"enumMember": "#5BB4CD",
-		"property": "#5BB4CD",
-		"variable": "#5BB4CD",
-		"parameter": "#5BB4CD",
-		"function": "#A9B6C2",
-		"method": "#A9B6C2",
-		"number": "#DACC8B",
-		"string": "#FF907C",
-		"keyword": "#FF8CB7",
-		"macro": "#FF907C",
+		"namespace": "#8CDCFB",
+		"type": "#8CDCFB",
+		"class": "#8CDCFB",
+		"enum": "#8CDCFB",
+		"interface": "#8CDCFB",
+		"struct": "#8CDCFB",
+		"typeParameter": "#8CDCFB",
+		"enumMember": "#89C0B3",
+		"property": "#89C0B3",
+		"variable": "#89C0B3",
+		"parameter": "#89C0B3",
+		"function": "#69ACC8",
+		"method": "#69ACC8",
+		"number": "#D6CA86",
+		"string": "#E48372",
+		"keyword": "#EE82B1",
+		"macro": "#E48372",
 		"operator": "#E5E5E5",
-		"*.readonly": "#5BB4CD",
-		"*.defaultLibrary": "#A9B6C2",
-		"namespace:swift": "#DFC2FC",
-		"type:swift": "#DFC2FC",
-		"typeParameter:swift": "#DFC2FC",
-		"class:swift": "#DFC2FC",
-		"struct:swift": "#DFC2FC",
-		"enum:swift": "#DFC2FC",
-		"interface:swift": "#DFC2FC",
-		"class.declaration:swift": "#5BB4CD",
-		"class.definition:swift": "#5BB4CD",
-		"struct.declaration:swift": "#5BB4CD",
-		"struct.definition:swift": "#5BB4CD",
-		"enum.declaration:swift": "#5BB4CD",
-		"enum.definition:swift": "#5BB4CD",
-		"interface.declaration:swift": "#5BB4CD",
-		"interface.definition:swift": "#5BB4CD",
-		"typeParameter.declaration:swift": "#5BB4CD",
-		"typeParameter.definition:swift": "#5BB4CD",
-		"variable:swift": "#5BB4CD",
-		"variable.declaration:swift": "#5BB4CD",
-		"variable.readonly:swift": "#5BB4CD",
-		"property:swift": "#5BB4CD",
-		"property.declaration:swift": "#5BB4CD",
-		"parameter:swift": "#5BB4CD",
-		"enumMember:swift": "#5BB4CD",
-		"function:swift": "#5BB4CD",
-		"method:swift": "#5BB4CD",
-		"function.declaration:swift": "#5BB4CD",
-		"method.declaration:swift": "#5BB4CD",
-		"function.defaultLibrary:swift": "#5BB4CD",
-		"method.defaultLibrary:swift": "#5BB4CD",
-		"property.defaultLibrary:swift": "#A9B6C2",
+		"*.readonly": "#89C0B3",
+		"*.defaultLibrary": "#69ACC8",
+		"namespace:swift": "#8CDCFB",
+		"type:swift": "#8CDCFB",
+		"typeParameter:swift": "#8CDCFB",
+		"class:swift": "#8CDCFB",
+		"struct:swift": "#8CDCFB",
+		"enum:swift": "#8CDCFB",
+		"interface:swift": "#8CDCFB",
+		"class.declaration:swift": "#69ACC8",
+		"class.definition:swift": "#69ACC8",
+		"struct.declaration:swift": "#69ACC8",
+		"struct.definition:swift": "#69ACC8",
+		"enum.declaration:swift": "#69ACC8",
+		"enum.definition:swift": "#69ACC8",
+		"interface.declaration:swift": "#69ACC8",
+		"interface.definition:swift": "#69ACC8",
+		"typeParameter.declaration:swift": "#69ACC8",
+		"typeParameter.definition:swift": "#69ACC8",
+		"variable:swift": "#89C0B3",
+		"variable.declaration:swift": "#69ACC8",
+		"variable.readonly:swift": "#89C0B3",
+		"property:swift": "#89C0B3",
+		"property.declaration:swift": "#69ACC8",
+		"parameter:swift": "#89C0B3",
+		"enumMember:swift": "#89C0B3",
+		"function:swift": "#89C0B4",
+		"method:swift": "#89C0B4",
+		"function.declaration:swift": "#69ACC8",
+		"method.declaration:swift": "#69ACC8",
+		"function.defaultLibrary:swift": "#89C0B4",
+		"method.defaultLibrary:swift": "#89C0B4",
+		"property.defaultLibrary:swift": "#69ACC8",
 		"operator.defaultLibrary:swift": "#E5E5E5",
-		"modifier:swift": "#FF8CB7",
-		"keyword:swift": "#FF8CB7",
-		"number:swift": "#DACC8B",
-		"string:swift": "#FF907C",
-		"macro:swift": "#FF907C",
-		"macro.defaultLibrary:swift": "#FF907C"
+		"modifier:swift": "#EE82B1",
+		"keyword:swift": "#EE82B1",
+		"number:swift": "#D6CA86",
+		"string:swift": "#E48372",
+		"macro:swift": "#E48372",
+		"macro.defaultLibrary:swift": "#E48372"
 	},
 	"tokenColors": [
 		{
@@ -183,7 +183,7 @@
 				"comment.block"
 			],
 			"settings": {
-				"foreground": "#88939E"
+				"foreground": "#828C97"
 			}
 		},
 		{
@@ -193,7 +193,7 @@
 				"comment.line.documentation"
 			],
 			"settings": {
-				"foreground": "#88939E"
+				"foreground": "#828C97"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#FF8CB7"
+				"foreground": "#EE82B1"
 			}
 		},
 		{
@@ -239,7 +239,7 @@
 				"meta.preprocessor.conditional.swift"
 			],
 			"settings": {
-				"foreground": "#FF907C"
+				"foreground": "#E48372"
 			}
 		},
 		{
@@ -250,7 +250,7 @@
 				"string.template"
 			],
 			"settings": {
-				"foreground": "#FF907C"
+				"foreground": "#E48372"
 			}
 		},
 		{
@@ -284,7 +284,7 @@
 				"support.constant"
 			],
 			"settings": {
-				"foreground": "#DACC8B"
+				"foreground": "#D6CA86"
 			}
 		},
 		{
@@ -300,7 +300,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#DFC2FC"
+				"foreground": "#8CDCFB"
 			}
 		},
 		{
@@ -311,7 +311,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#5BB4CD"
+				"foreground": "#89C0B3"
 			}
 		},
 		{
@@ -320,7 +320,7 @@
 				"support.function.any-method.swift"
 			],
 			"settings": {
-				"foreground": "#A9B6C2"
+				"foreground": "#69ACC8"
 			}
 		},
 		{
@@ -329,7 +329,7 @@
 				"support.function.availability-condition.swift"
 			],
 			"settings": {
-				"foreground": "#FF8CB7"
+				"foreground": "#EE82B1"
 			}
 		},
 		{
@@ -339,7 +339,7 @@
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#A9B6C2"
+				"foreground": "#89C0B4"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"variable.other"
 			],
 			"settings": {
-				"foreground": "#5BB4CD"
+				"foreground": "#89C0B3"
 			}
 		},
 		{
@@ -359,7 +359,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#FF8CB7"
+				"foreground": "#EE82B1"
 			}
 		},
 		{
@@ -371,7 +371,7 @@
 				"punctuation.definition.annotation"
 			],
 			"settings": {
-				"foreground": "#FF8CB7"
+				"foreground": "#AA83E4"
 			}
 		},
 		{
@@ -402,7 +402,7 @@
 				"text.xml entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#FF907C"
+				"foreground": "#E48372"
 			}
 		},
 		{
@@ -431,7 +431,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#FF907C"
+				"foreground": "#E48372"
 			}
 		},
 		{
@@ -495,7 +495,7 @@
 				"meta.attribute.swift"
 			],
 			"settings": {
-				"foreground": "#FF8CB7"
+				"foreground": "#EE82B1"
 			}
 		},
 		{
@@ -509,7 +509,7 @@
 				"meta.inheritance-clause.swift"
 			],
 			"settings": {
-				"foreground": "#DFC2FC"
+				"foreground": "#8CDCFB"
 			}
 		},
 		{
@@ -518,7 +518,7 @@
 				"meta.definition.type.protocol.swift"
 			],
 			"settings": {
-				"foreground": "#77DFFD"
+				"foreground": "#D4BBFA"
 			}
 		},
 		{
@@ -529,7 +529,7 @@
 				"string.quoted.double.single-line.swift"
 			],
 			"settings": {
-				"foreground": "#FF907C"
+				"foreground": "#E48372"
 			}
 		},
 		{
@@ -541,7 +541,7 @@
 				"meta.definition.type.class.swift"
 			],
 			"settings": {
-				"foreground": "#5BB4CD"
+				"foreground": "#89C0B3"
 			}
 		},
 		{
@@ -551,7 +551,7 @@
 				"support.variable.parameter.swift"
 			],
 			"settings": {
-				"foreground": "#5BB4CD"
+				"foreground": "#89C0B3"
 			}
 		},
 		{
@@ -560,7 +560,7 @@
 				"entity.name.type.swift"
 			],
 			"settings": {
-				"foreground": "#DFC2FC"
+				"foreground": "#8CDCFB"
 			}
 		},
 		{
@@ -579,7 +579,7 @@
 				"source.swift punctuation.separator"
 			],
 			"settings": {
-				"foreground": "#DACC8B"
+				"foreground": "#D6CA86"
 			}
 		},
 		{
@@ -593,7 +593,7 @@
 				"keyword.operator.ternary.swift"
 			],
 			"settings": {
-				"foreground": "#DACC8B"
+				"foreground": "#D6CA86"
 			}
 		},
 		{
@@ -635,7 +635,7 @@
 				"punctuation.definition.tag.end"
 			],
 			"settings": {
-				"foreground": "#DACC8B"
+				"foreground": "#D6CA86"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 				"meta.definition.type.enum.swift punctuation.definition.generic.end.swift"
 			],
 			"settings": {
-				"foreground": "#DACC8B"
+				"foreground": "#D6CA86"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 				"meta.subscript-expression.swift punctuation.definition.arguments.end.swift"
 			],
 			"settings": {
-				"foreground": "#DACC8B"
+				"foreground": "#D6CA86"
 			}
 		},
 		{
@@ -702,7 +702,7 @@
 				"source.swift variable.other.dollar"
 			],
 			"settings": {
-				"foreground": "#5BB4CD"
+				"foreground": "#89C0B3"
 			}
 		},
 		{
@@ -720,7 +720,7 @@
 				"source.swift entity.name.section"
 			],
 			"settings": {
-				"foreground": "#5BB4CD"
+				"foreground": "#69ACC8"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 				"source.swift meta.protocol-conformance.swift"
 			],
 			"settings": {
-				"foreground": "#DFC2FC"
+				"foreground": "#8CDCFB"
 			}
 		},
 		{
@@ -754,7 +754,7 @@
 				"source.swift support.function.any-method"
 			],
 			"settings": {
-				"foreground": "#5BB4CD"
+				"foreground": "#89C0B4"
 			}
 		},
 		{
@@ -768,7 +768,7 @@
 				"source.swift support.function.default-library.swift"
 			],
 			"settings": {
-				"foreground": "#DFC2FC"
+				"foreground": "#BBF0E4"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 				"source.swift punctuation.section.group"
 			],
 			"settings": {
-				"foreground": "#DACC8B"
+				"foreground": "#D6CA86"
 			}
 		},
 		{
@@ -800,7 +800,7 @@
 				"source.swift meta.definition.extension.swift keyword"
 			],
 			"settings": {
-				"foreground": "#FF8CB7"
+				"foreground": "#EE82B1"
 			}
 		}
 	]

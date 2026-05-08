@@ -2,6 +2,10 @@
 
 All notable changes to this project are documented in this file.
 
+## 1.0.3
+
+- Updated colors for tokens
+
 ## 1.0.2
 
 - Updated colors for functions
