@@ -1,16 +1,51 @@
-# xcode-26-theme README
+# XCode 26 Theme
 
-## Working with Markdown
+Xcode-inspired theme pack for VS Code and Cursor.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This extension provides two themes:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- XCode Dark
+- XCode Light
 
-## For more information
+Both themes include Xcode-style syntax colors with Swift-focused token mappings.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Maintainer
 
-**Enjoy!**
+Sushant Kumar
+
+## Features
+
+- Xcode-like editor syntax palette for common languages
+- Swift semantic and TextMate scope tuning
+- Matching UI palettes for dark and light modes
+
+## Installation
+
+### From Marketplace
+
+1. Open Extensions in VS Code or Cursor.
+2. Search for XCode 26 Theme.
+3. Install and reload.
+
+### From Source (VSIX)
+
+1. Install packaging tool:
+
+   ```bash
+   npm install -g @vscode/vsce
+   ```
+
+2. Package this extension:
+
+   ```bash
+   vsce package
+   ```
+
+3. Install the generated .vsix file:
+   - Command Palette -> Extensions: Install from VSIX...
+
+## Usage
+
+1. Open Command Palette.
+2. Run Preferences: Color Theme.
+3. Select XCode Dark or XCode Light.
