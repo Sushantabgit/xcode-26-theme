@@ -1,9 +1,10 @@
-# Change Log
+# Changelog
 
-All notable changes to the "xcode-26-theme" extension will be documented in this file.
+All notable changes to this project are documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.0
 
-## [Unreleased]
-
-- Initial release
+- Initial release of XCode 26 Theme.
+- Includes two themes: XCode Dark and XCode Light.
+- Added Xcode-inspired syntax colors with Swift-focused token mappings.
+- Added repository metadata and Apache-2.0 licensing.
